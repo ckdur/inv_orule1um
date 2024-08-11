@@ -1,0 +1,5 @@
+*.cir
+*.cdl
+lvs_work
+sim
+
